@@ -1,2 +1,2 @@
-javac FindMin.java
-java FindMin
+javac FindPeak.java
+java FindPeak
