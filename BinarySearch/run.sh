@@ -1,2 +1,2 @@
-javac FindPeak.java
-java FindPeak
+javac TwoSumII.java
+java TwoSumII
