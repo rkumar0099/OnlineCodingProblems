@@ -1,2 +1,2 @@
-javac TwoSumII.java
-java TwoSumII
+javac MinSizeSubArraySum.java
+java MinSizeSubArraySum
