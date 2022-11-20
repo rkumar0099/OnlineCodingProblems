@@ -1,2 +1,2 @@
-g++ -std=c++17 SearchTwoDMatrixII.cpp -o sm 
-./sm
+g++ -std=c++17 LongestIncreasingSubsequence.cpp -o lis 
+./lis
